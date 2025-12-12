@@ -1,11 +1,7 @@
 import fs from 'fs';
 import PocketBase from 'pocketbase';
 
-// Adatta URL se diverso
 const pb = new PocketBase('http://127.0.0.1:8090');
-
-// Se la collection è protetta, autenticati prima:
-// await pb.admins.authWithPassword('tua@email.com', 'password');
 
 async function importData() {
   const raw = fs.readFileSync('./openaq.json', 'utf8');
