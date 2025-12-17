@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  // --- CONFIGURAZIONE ---
+  //CONFIGURAZIONE
   const PB_URL = 'http://127.0.0.1:8090';
   const COLLECTION_NAME = 'stations';
   // Aumenta l'intervallo a 60s se hai 10k stazioni, per non sovraccaricare il browser
