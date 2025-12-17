@@ -1,6 +1,6 @@
 DESCRIZIONE
 
-Abbiamo creato il codice , utilizzando Vite come ambiente di sviluppo, una mappa interattiva che mostra in tempo reale la qualità dell’aria in tutto il mondo. La mappa si aggiorna automaticamente ogni minuto, garantendo dati sempre attuali e affidabili.
+Abbiamo creato , utilizzando Vite come ambiente di sviluppo, una mappa interattiva che mostra in tempo reale la qualità dell’aria in tutto il mondo. La mappa si aggiorna automaticamente ogni minuto, garantendo dati sempre attuali e affidabili.
 
 Le informazioni visualizzate provengono da un dataset pubblico, accessibile al seguente link:
 https://public.opendatasoft.com/explore/dataset/openaq/export/?disjunctive.location&disjunctive.measurements_parameter&q=belgium&refine.location=Belgium+&disjunctive.city
