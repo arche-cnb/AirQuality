@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.error('Leaflet non trovato');
     return;
   }
-
+fyheryh
   //CONFIGURAZIONE BASE
   const PB_URL = 'http://127.0.0.1:8090';   // URL del server PocketBase locale
   const COLLECTION_NAME = 'stations';       // Nome della collezione da cui leggere i dati
